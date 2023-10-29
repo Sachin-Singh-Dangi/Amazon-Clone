@@ -1,2 +1,2 @@
 # Amazon-Clone
-A simple static Amazon home page clone with use of HTML,CSS.
+[Click Here](https://sachin-singh-dangi.github.io/Amazon-Clone/) for Live Demo 👨‍💻
